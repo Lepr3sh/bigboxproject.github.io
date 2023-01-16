@@ -21,6 +21,6 @@ Fitness website to be linked with a fitness app. Started as a school project.
 
 ### Project Live Url:
 
-(https://mian-ali.github.io/GymWebsite/)
+(https://Lepr3sh.github.io/bigboxproject/)
 
 ### WebApp ScreenShoot
